@@ -10,8 +10,6 @@ sites:
     url: https://archive.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: AVP Nas
     url: http://avp.co.ua
 notifications:
