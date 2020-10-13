@@ -8,6 +8,8 @@ sites:
     url: https://news.ycombinator.com
   - name: AVP Nas
     url: http://avp.co.ua
+  - name: GitHub
+    url: https://github.com
 notifications:
   - type: slack
     channel: C01C21T277Z
