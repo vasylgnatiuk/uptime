@@ -40,38 +40,6 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 
 [![Screenshot of status website](./assets/screenshot-status.png)](https://upptime.js.org)
 
-## 💝 Who's using Upptime
-
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td><a href="https://github.com/koj-co"><img src="https://avatars3.githubusercontent.com/u/65495851?v=4" height="50px" alt=""/></a></td>
-          <td><a href="https://status.koj.co"><strong>Koj</strong><br><code>status.koj.co</code></a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td><a href="https://github.com/wakatime"><img src="https://avatars3.githubusercontent.com/u/4814844?v=4" height="50px" alt=""/></a></td>
-          <td><a href="https://status.wakatime.com"><strong>Wakatime</strong><br><code>status.wakatime.com</code></a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td><a href="https://github.com/stethoscope-js"><img src="https://avatars3.githubusercontent.com/u/71249357?v=4" height="50px" alt=""/></a></td>
-          <td><a href="https://stethoscope.js.org/status/"><strong>Stethoscope</strong><br><code>stethoscope.js.org/status</code></a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 [You too? Open a PR!](https://github.com/koj-co/upptime/edit/master/README.md)
 
 ## 👩‍💻 Getting started
