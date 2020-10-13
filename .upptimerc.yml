@@ -1,6 +1,6 @@
 owner: antonichuk
-repo: upptime
-user-agent: KojBot
+repo: uptime
+user-agent: antonichuk
 sites:
   - name: Google
     url: https://www.google.com
@@ -14,7 +14,7 @@ sites:
     url: http://avp.co.ua
 notifications:
   - type: slack
-    channel: C016QTU9S9Y
+    channel: C01C21T277Z
 assignees:
   - antonichuk
 status-website:
