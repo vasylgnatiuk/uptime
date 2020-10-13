@@ -20,7 +20,15 @@
     "url": "http://avp.co.ua",
     "slug": "avp-nas",
     "status": "down",
-    "uptime": "-383.09",
+    "uptime": "0.40",
     "time": 0
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "slug": "git-hub",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 34
   }
 ]
