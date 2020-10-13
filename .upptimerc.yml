@@ -12,13 +12,13 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: AVP Nas
+    url: http://avp.co.ua
 notifications:
   - type: slack
     channel: C016QTU9S9Y
 assignees:
-  - AnandChowdhary
+  - antonichuk
 status-website:
   cname: upptime.js.org
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
