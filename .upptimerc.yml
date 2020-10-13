@@ -2,12 +2,6 @@ owner: antonichuk
 repo: uptime
 user-agent: antonichuk
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: AVP Nas
-    url: http://avp.co.ua
   - name: GitHub
     url: https://github.com
 notifications:
