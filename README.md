@@ -8,16 +8,13 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
+## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Google](https://www.google.com) | 🟥 Down | [google.yml](https://github.com/antonichuk/uptime/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 0ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-| [Hacker News](https://news.ycombinator.com) | 🟥 Down | [hacker-news.yml](https://github.com/antonichuk/uptime/commits/master/history/hacker-news.yml) | <img alt="Response time graph" src="./graphs/hacker-news.png" height="20"> 0ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fhacker-news%2Fuptime.json)
-| [AVP Nas](http://avp.co.ua) | 🟥 Down | [avp-nas.yml](https://github.com/antonichuk/uptime/commits/master/history/avp-nas.yml) | <img alt="Response time graph" src="./graphs/avp-nas.png" height="20"> 0ms | ![Uptime 0.40%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Favp-nas%2Fuptime.json)
-| [GitHub](https://github.com) | 🟩 Up | [git-hub.yml](https://github.com/antonichuk/uptime/commits/master/history/git-hub.yml) | <img alt="Response time graph" src="./graphs/git-hub.png" height="20"> 34ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fgit-hub%2Fuptime.json)
+| [GitHub](https://github.com) | 🟩 Up | [git-hub.yml](https://github.com/antonichuk/uptime/commits/master/history/git-hub.yml) | <img alt="Response time graph" src="./graphs/git-hub.png" height="20"> 37ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fgit-hub%2Fuptime.json)
 
 <!--end: status pages-->
 
