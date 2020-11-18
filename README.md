@@ -14,7 +14,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [GitHub](https://github.com) | 🟩 Up | [git-hub.yml](https://github.com/antonichuk/uptime/commits/master/history/git-hub.yml) | <img alt="Response time graph" src="./graphs/git-hub.png" height="20"> 101ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fgit-hub%2Fuptime.json)
+| [GitHub](https://github.com) | 🟩 Up | [git-hub.yml](https://github.com/antonichuk/uptime/commits/master/history/git-hub.yml) | <img alt="Response time graph" src="./graphs/git-hub.png" height="20"> 99ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fgit-hub%2Fuptime.json)
 | [Google](https://google.com) | 🟩 Up | [google.yml](https://github.com/antonichuk/uptime/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 88ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fantonichuk%2Fuptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 
 <!--end: status pages-->
