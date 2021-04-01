@@ -11,8 +11,8 @@
     "name": "Google",
     "url": "https://google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 113
+    "time": 112
   }
 ]
